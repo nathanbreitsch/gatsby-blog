@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    url: 'https://www.nathanbreitsch.com',
+    title: 'Nathan Breitsch',
+    subtitle: '(╯°□°)╯︵ ┻━┻',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -20,13 +20,15 @@ module.exports = {
       }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#'
+      name: 'Nathan Breitsch',
+      email: 'nathanbreitsch@gmail.com',
+      twitter: 'https://youtu.be/dQw4w9WgXcQ',
+      github: 'https://youtu.be/dQw4w9WgXcQ',
+      vk: 'https://youtu.be/dQw4w9WgXcQ',
+      telegram: 'https://youtu.be/dQw4w9WgXcQ',
+      twitter: 'https://youtu.be/dQw4w9WgXcQ',
+      rss: 'https://youtu.be/dQw4w9WgXcQ',
+      vk: 'https://youtu.be/dQw4w9WgXcQ'
     }
   },
   plugins: [
