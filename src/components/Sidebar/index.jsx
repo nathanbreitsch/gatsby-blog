@@ -3,9 +3,10 @@ import get from 'lodash/get';
 import Link from 'gatsby-link';
 import Menu from '../Menu';
 import Links from '../Links';
-import profilePic from '../../pages/photo.jpg';
+//import profilePic from '../../pages/photo.jpg';
 import './style.scss';
 
+let profilePic = "https://s.gravatar.com/avatar/aaab7a4be664660b1df5da9b443760eb?s=80"
 class Sidebar extends React.Component {
   render() {
     const { location } = this.props;
