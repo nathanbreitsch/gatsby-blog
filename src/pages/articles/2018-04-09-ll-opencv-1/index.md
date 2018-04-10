@@ -4,11 +4,11 @@ date: "2018-04-09"
 layout: post
 draft: false
 path: "/posts/learning-and-loathing-opencv-part-1/"
-category: "Computer Vision"
+category: "Learning and Loathing"
 tags:
   - "OpenCV"
   - "Computer Vision"
-description: "I want to learn classic computer vision techniques, but I don't like OpenCV.  In this series, I will either learn to like OpenCV or learn to replace it.  This installment covers reading png files and displaying the images in a juyper notebook." 
+description: "I want to learn classic computer vision techniques, but I don't like OpenCV. In part 1, we will use opencv to read an image and then do the same thing with imageio." 
 ---
 
 
